@@ -1,0 +1,18 @@
+*               text eol=lf
+.*              text eol=lf
+
+*.ico           binary
+*.png           binary
+*.jpg           binary
+*.webp          binary
+*.gif           binary
+*.mp4           binary
+*.webm          binary
+*.aac           binary
+*.ogg           binary
+*.mp3           binary
+*.pdf           binary
+
+*.md            linguist-detectable diff=markdown
+
+/.github        export-ignore
