@@ -1,0 +1,9 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "docs",
+    "images",
+    "LICENSE.md",
+    "README.md"
+  ]
+}
